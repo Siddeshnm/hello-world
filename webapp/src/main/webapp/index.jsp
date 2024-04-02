@@ -1,7 +1,6 @@
 <form action="action_page.php">
   <div class="container">
 	  <h1> HELLO WORLD </h1>
-	  <h1> This is siddesh </h1>
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill the form to create an account.</p>
     <hr>
